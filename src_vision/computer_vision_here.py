@@ -42,11 +42,9 @@ class CVHandler():
         
         while True:
 
-            """
             self.message["data"] = "hello from python"
             message_json = json.dumps(self.message)
             queue.put(message_json)
-            """
             time.sleep(1)
 
     def test_segmentation(self) -> None :
