@@ -1,13 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"oPlayerCountButton",
+  "%Name":"oFloatingGuitar",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oPlayerCountButton",
+  "name":"oFloatingGuitar",
   "overriddenProperties":[],
   "parent":{
     "name":"UI Objects",
@@ -27,15 +26,13 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[
-    {"$GMObjectProperty":"v1","%Name":"count","filters":[],"listItems":[],"multiselect":false,"name":"count","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"1","varType":1,},
-  ],
+  "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sPlayerCountButton",
-    "path":"sprites/sPlayerCountButton/sPlayerCountButton.yy",
+    "name":"sGuitar",
+    "path":"sprites/sGuitar/sGuitar.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -2,6 +2,10 @@
 
 sheet_time = 5;
 
+is_playing = true;
+start_time = current_time;
+end_time = current_time + (sheet_time * 1000);
+
 notes = [
     {
         type: "tone",

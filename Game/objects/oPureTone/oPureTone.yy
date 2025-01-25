@@ -10,8 +10,8 @@
   "name":"oPureTone",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Pure Music",
+    "path":"folders/Objects/Pure Music.yy",
   },
   "parentObjectId":null,
   "persistent":false,
