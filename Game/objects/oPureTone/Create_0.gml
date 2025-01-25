@@ -1,5 +1,7 @@
 /// play_tone(start_time, end_time, pitch)
 
+has_started = false;
+
 // Calculate the duration
 var duration = end_time - start_time;  
 if (duration <= 0) {
@@ -7,5 +9,9 @@ if (duration <= 0) {
     return;
 }
 
-// Play the sound
-sound_to_stop = audio_play_sound(sndTone, 1, false, 1, 0, pitch * 2);
+sound = sndTone;
+if color == "red" { sound = sndTone }
+if color == "green" { sound = sndGuitar; }
+if color == "blue" { sound = sndPiano; }
+
+

@@ -50,6 +50,8 @@
     {"id":{"name":"rmGameLoop","path":"rooms/rmGameLoop/rmGameLoop.yy",},},
     {"id":{"name":"rmMainMenu","path":"rooms/rmMainMenu/rmMainMenu.yy",},},
     {"id":{"name":"rmPlayerSelect","path":"rooms/rmPlayerSelect/rmPlayerSelect.yy",},},
+    {"id":{"name":"sndGuitar","path":"sounds/sndGuitar/sndGuitar.yy",},},
+    {"id":{"name":"sndPiano","path":"sounds/sndPiano/sndPiano.yy",},},
     {"id":{"name":"sndTone","path":"sounds/sndTone/sndTone.yy",},},
     {"id":{"name":"sGuitar","path":"sprites/sGuitar/sGuitar.yy",},},
     {"id":{"name":"sLogo","path":"sprites/sLogo/sLogo.yy",},},
